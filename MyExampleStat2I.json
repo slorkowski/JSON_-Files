@@ -27,7 +27,7 @@
 			"description": "Overhaul check",
 			"estimatedServiceDate": null,
 			"statusController": 0,
-			"statusAnalytic": 0
+			"statusAnalytic": 2
 		}
 	]
 }
