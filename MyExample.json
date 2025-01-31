@@ -6,7 +6,7 @@
 	"groupNumber": 1,
 	"maintenanceItems": [
 		{
-			"dateTime": "2024-09-23T07:00:14",
+			"dateTime": "2025-01-23T07:00:14",
 			"itemNumber": 0,
 			"due1": 26854,
 			"due2": 23358,
@@ -28,6 +28,30 @@
 			"estimatedServiceDate": null,
 			"statusController": 0,
 			"statusAnalytic": 0
+		}
+		{
+			"dateTime": "2025-01-23T07:00:15",
+			"itemNumber": 1,
+			"due1": 12345,
+			"due2": 67890,
+			"dueType1": 1,
+			"dueType2": 2,
+			"warnNot1": 240,
+			"warnNot2": 160,
+			"warnInterval1": 24,
+			"warnInterval2": 16,
+			"duePercentage1": 19,
+			"duePercentage2": 89,
+			"dueDate1": "2027-11-22T04:09:27",
+			"dueDate2": "2025-03-20T04:23:51",
+			"interval1": 70080,
+			"interval2": 30720,
+			"warnPercentage1": 24,
+			"warnPercentage2": 16,
+			"description": "Change Grease",
+			"estimatedServiceDate": null,
+			"statusController": 0,
+			"statusAnalytic": 1
 		}
 	]
 }
