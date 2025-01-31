@@ -1,0 +1,33 @@
+{
+	"robotName": "ROBOT1",
+	"ipAddress": "127.0.0.1",
+	"serialNumber": "F000000",
+	"controllerGuid": "00000000-0000-0000-0000-000000000006",
+	"groupNumber": 1,
+	"maintenanceItems": [
+		{
+			"dateTime": "2024-09-23T07:00:14",
+			"itemNumber": 0,
+			"due1": 26854,
+			"due2": 23358,
+			"dueType1": 1,
+			"dueType2": 2,
+			"warnNot1": 240,
+			"warnNot2": 160,
+			"warnInterval1": 24,
+			"warnInterval2": 16,
+			"duePercentage1": 38,
+			"duePercentage2": 76,
+			"dueDate1": "2027-10-22T04:09:27",
+			"dueDate2": "2030-03-06T04:23:51",
+			"interval1": 70080,
+			"interval2": 30720,
+			"warnPercentage1": 24,
+			"warnPercentage2": 16,
+			"description": "Overhaul check",
+			"estimatedServiceDate": null,
+			"statusController": 0,
+			"statusAnalytic": 0
+		}
+	]
+}
